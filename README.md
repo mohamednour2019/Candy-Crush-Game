@@ -1,5 +1,5 @@
 # Candy-Crush-Game
-C++ Using SFML Library Lite Candy Crush Game with three levels of dficultith 
+C++ Using SFML Library Lite Candy Crush Game with three levels of dficulities 
 Candy Crush Game with 3 levels of difficulty the first level depends on the number of moves, the second level depends on time, the third level depends on both moves and time, there are three stars that indicates your success in each level.
 
 THE FIRST LEVEL
